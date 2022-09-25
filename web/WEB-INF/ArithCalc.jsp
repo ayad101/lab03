@@ -13,7 +13,7 @@
     </head>
     <body>
         <h1>Arithmetic Calculator</h1>
-        <form action="arithmetic" method="post">
+        <form action="arithcalc" method="post">
             <label for="first">First: </label>
             <input type="number" name="first" id="first"><br>
             <label for="second">Second: </label>
